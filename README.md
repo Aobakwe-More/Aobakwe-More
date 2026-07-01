@@ -1,10 +1,20 @@
-👋 Hi, I’m @Aobakwe-More
-- 👀 I’m interested in artificial intelligence, machine learning and web development
-- 🌱 I’m currently learning Mobile Development (Dart & Flutter) at WeThinkCode_
-- 📫 Reach out on Linkedin www.linkedin.com/in/aobakwe-more
+### Aobakwe More
 
+Backend developer | Java & Spring Boot
 
-<!---
-Aobakwe-More/Aobakwe-More is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages & Frameworks**
+`Java` `Spring Boot` `Spring Data JPA` `Spring Security` `REST APIs`
+
+**Databases**
+`PostgreSQL`
+
+**Frontend**
+`React` `TypeScript`
+
+**Tools**
+`Docker` `Git` `GitHub Actions`
+
+---
+
+📍 Johannesburg, South Africa
+🔗 [aobakwemakesstuff.com](https://aobakwemakesstuff.com) · [LinkedIn](your-linkedin-url)
